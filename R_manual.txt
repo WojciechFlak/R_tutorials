@@ -1,0 +1,5 @@
+ctrl+l - clears console
+ctrl + spacebar - shows possible arguments of funct, between parenthesis
+?package - manual
+%% and || takes only first value from vector and returns one result - NOPE! now it is deprecated
+ctrl + shift + number - maximizing windows
